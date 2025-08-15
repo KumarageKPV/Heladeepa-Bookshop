@@ -126,7 +126,7 @@ heladeepa-bookshop/
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-repo>.git
+git clone https://github.com/KumarageKPV/Heladeepa-Bookshop.git
 cd heladeepa-bookshop
 
 # Backend
